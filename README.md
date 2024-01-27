@@ -1,4 +1,4 @@
-# Express.js Codespace template
+# Express.js Mongoose Authentication
 
 ### View the project in VS Code Simple browser
 - Get the URL for the page - see PORTS in terminal
