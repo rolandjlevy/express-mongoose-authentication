@@ -1,6 +1,6 @@
 # Express.js / Mongoose / JWT Auth
 
-This project demonstrates how to implement authentication using Express.js and Mongoose. Uses Bcrypt for bcrypt for password-hashing and JWT for authorization.
+This project demonstrates how to implement authentication using Express.js and Mongoose. Uses Bcrypt for password-hashing and JWT for authorization.
 
 ### Requirements
 
