@@ -1,11 +1,31 @@
-# Express.js Mongoose Authentication
+# Express.js / Mongoose / JWT Auth
 
-### Link
+This project demonstrates how to implement authentication using Express.js and Mongoose. Uses Bcrypt for password-hashing and JWT for authorization.
 
-- Manually generate bcrypt hash: [bcrypt-generator.com](https://bcrypt-generator.com)
+### Requirements
 
-### View the project in VS Code Simple browser
+- MongoDB Atlas connection string for the MONGODB_URI variable
+- `.env` file with these variables: `MONGODB_URI`, `JWT_SECRET`
+- These packages installed:
+  - express
+  - mongoose
+  - bcrypt
+  - jsonwebtoken
+  - cookie
+  - dotenv
+  - nodemon
+- Project runs with `npm start`
 
-- Get the URL for the page - see PORTS in terminal
-- From command palette: Simple Browser: Show
-- then paste in that URL
+### Links
+
+- [Express](http://expressjs.com)
+- [Mongoose](https://mongoosejs.com) is an Object Data Modeling (ODM) library for MongoDB and Node.js
+- [JWT](https://jwt.io/)
+- [Bcrypt](https://www.npmjs.com/package/bcrypt)
+- [bcrypt-generator.com](https://bcrypt-generator.com)
+
+### Youtube tutorials
+
+- https://youtu.be/zYi9PguVFx8?si=WhUYUo0At7SncHN4
+- https://youtu.be/enopDSs3DRw?si=K_nc2kYvYZQT2SaF
+- https://www.youtube.com/watch?v=NW7DPBxCAd0
