@@ -29,3 +29,4 @@ This project demonstrates how to implement authentication using Express.js and M
 - https://youtu.be/zYi9PguVFx8?si=WhUYUo0At7SncHN4
 - https://youtu.be/enopDSs3DRw?si=K_nc2kYvYZQT2SaF
 - https://www.youtube.com/watch?v=NW7DPBxCAd0
+- https://youtu.be/xBYr9DxDqyU?si=0OpyH9RSR1vT2Wga
