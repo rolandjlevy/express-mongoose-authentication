@@ -6,7 +6,7 @@ This project demonstrates how to implement authentication using Express.js and M
 
 - MongoDB Atlas connection string for the MONGODB_URI variable
 - `.env` file with these variables: `MONGODB_URI`, `JWT_SECRET`
-- These packages installed:
+- Packages installed:
   - express
   - mongoose
   - bcrypt
