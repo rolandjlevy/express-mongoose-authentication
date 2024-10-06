@@ -1,4 +1,6 @@
-const { Schema, model } = require('mongoose');
+const { Schema, models, model } = require('mongoose');
+
+const collectionName = 'users';
 
 const UserSchema = new Schema({
   username: {
@@ -10,4 +12,4 @@ const UserSchema = new Schema({
   scopes: { type: Array, required: true, default: ['user:read'] }
 });
 
-module.exports = model('User', UserSchema);
+module.exports = models.User || model('User', UserSchema, collectionName);
